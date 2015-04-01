@@ -16,10 +16,16 @@ html, body {
 }
 
 #second {
-	width: 100%;
+	width: %;
 	height: 28.4%;
 	margin: 0 auto;
-	text-align: center;
+
+}
+
+#second p {
+	width: 80%;
+	padding: 5% 0;
+	margin: 0 auto;
 }
 
 #third {
@@ -42,8 +48,9 @@ html, body {
 	height: 60px;
 	width: 60px;
  	background-color: #3399FF;
- 	position: absolute;
- 	margin-left: 20px;
+ 	position: relative;
+ 	top: 10px;
+ 	left: 10px;
 
 	
 
